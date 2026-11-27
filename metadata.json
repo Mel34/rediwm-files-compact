@@ -1,0 +1,6 @@
+{
+  "name": "RediWM Files — Interactive Permissions Prototype",
+  "description": "Interactive UX prototype visualizing compact inline and popover permission editing patterns for RediWM Files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
